@@ -1,5 +1,19 @@
 # Journal
 
+## 2026-04-19
+
+### Bike
+
+- Charged and setup Di2, made sure it connects well with the new Garmin Edge 850.
+
+## 2026-04-18
+
+### Bike
+
+- Season opener: 100K (full) loop around the lake, with a **dead Di2 - so stuck
+  with a single gear
+  - Also:  first ride with Garmin Varia
+
 ## 2026-04-14
 
 - Bought photos from Zurich 21.1K 2026
@@ -12,7 +26,8 @@
 
 ### Running shoes research
 
-> What are the best running shoes for somebody, who tends to overpronate, for tempo workouts and races?
+> What are the best running shoes for somebody, who tends to overpronate, for
+> tempo workouts and races?
 >
 > I race distances from 10K to Marathon. My paces are:
 >
@@ -21,11 +36,16 @@
 > - 21.1K - 3:45/km
 > - Marathon - 3:55/km
 >
-> I do all my workouts and all my training on treadmill, I only race outdoors (on tarmac/concrete)
+> I do all my workouts and all my training on treadmill, I only race outdoors
+> (on tarmac/concrete)
 
-Perplexity still [suggests Tempus 2](https://www.perplexity.ai/search/what-are-the-best-running-shoe-KAs92Sf_R9mwZAGjmh2zjw), which is what I've been using so far (size EUR 41, US 8, UK 7, CM 26)
+Perplexity still [suggests Tempus 2](https://www.perplexity.ai/search/what-are-the-best-running-shoe-KAs92Sf_R9mwZAGjmh2zjw),
+which is what I've been using so far (size EUR 41, US 8, UK 7, CM 26).
 
-<img src="docs/2025-09 - Saucony Tempus 2 - Blue - 0.jpg" width="300"> <img src="docs/2025-09 - Saucony Tempus 2 - Blue - 1.jpg" width="300">
+<img width="300"
+  src="images/2025-09 - Saucony Tempus 2 - Blue - 0.jpg" >
+<img width="300"
+  src="images/2025-09 - Saucony Tempus 2 - Blue - 1.jpg" >
 
 ### Cycling
 
@@ -38,7 +58,8 @@ Went to VeloPlus (close to HB) to try on Assos clothes:
   - Equipe R S11
     - size M: seemed to fit
 
-<img src="images/2026-04-13 - assos cycling clothing.jpg"  width="300">
+<img width="300"
+  src="images/2026-04-13 - assos cycling clothing.jpg" >
 
 ## 2026-04-12
 
@@ -49,11 +70,13 @@ Went to VeloPlus (close to HB) to try on Assos clothes:
   - Garmin: 1:22:45 (3:54/km) + 82' toilet break
     - incl. 39:55 first 10K
   - official: **1:24:08** (3:59/km) \
-    <img src="docs/2026-04-12%20-%20ZRH%2021.1K%20-%20certificate.jpg" width="300">
+    <img width="300"
+      src="images/2026-04-12%20-%20ZRH%2021.1K%20-%20certificate.jpg">
     - bib number: 16880
     - <https://my.raceresult.com/378478/>
     - 5K split: 20:05, 19:45, 21:00, 18:44, 04:33 \
-      <img src="docs/2026-04-12 - ZRH 21.1K - splits.png" width="500">
+      <img width="500"
+        src="images/2026-04-12 - ZRH 21.1K - splits.png" >
 
 ## 2026-04-11
 
@@ -74,8 +97,10 @@ Went to VeloPlus (close to HB) to try on Assos clothes:
   - still only *Saucony Tempus* and discontinued *Brooks Hyperion GTS 2*
 
 - ran a "test 10K" in new *Nike Vaporflies* \
-  <img src="docs/2026-04%20-%20Nike%20Vaporfy%203%20-%20White-Purple%20-%200.jpg" width="300">
-  <img src="docs/2026-04%20-%20Nike%20Vaporfy%203%20-%20White-Purple%20-%201.jpg" width="300">
+  <img width="300"
+    src="images/2026-04%20-%20Nike%20Vaporfy%203%20-%20White-Purple%20-%200.jpg" >
+  <img width="300"
+    src="images/2026-04%20-%20Nike%20Vaporfy%203%20-%20White-Purple%20-%201.jpg" >
   - felt very wobbly
 
 - ordered clothing from *On Running*
