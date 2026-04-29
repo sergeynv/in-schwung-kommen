@@ -1,5 +1,24 @@
 # Journal
 
+## 2026-04-26
+
+### Run - London Marathon 2026
+
+- Ran London Marathon 2026 in 3:01:09 - [Certificate PDF](pdfs/2026-04-26%20-%20London%20Mararton%202026%20-%20Certificate.pdf)
+- Had bad cold since Monday, lost sense of taste on Saturday morning
+- Was running for sub-3, first half in 1:29:01, but legs totally gave up with
+4K to go
+- Bought photos from [Sportograf.com](https://www.sportograf.com/en/account/event/19871/SGFdad48852)
+  - [social media res - .zip](images/2026-04-26%20-%20LDN%2042.2K%20-%20socialmedia%20res.zip)
+
+#### Notable details
+
+- 2 people ran sub-2 for the first time in history - 1:59:30 and 1:59:41 - for
+  the second guy it was also his marathon debut. The 3rd place also run under
+  previous WR of 2:00:35
+- It was also the biggest marathon in history, with just under 60K finishers -
+  59'830.
+
 ## 2026-04-19
 
 ### Bike
