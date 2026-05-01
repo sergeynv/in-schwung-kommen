@@ -1,5 +1,12 @@
 # Journal
 
+## 2026-05-01
+
+### Run - Zurich 21.1K 2027
+
+- Registration opened for Zurich Marathon 2027 on 2027-04-11
+- Registered for 21.1K, CHF 119, start time 1:15pm, target time: 1:17
+
 ## 2026-04-26
 
 ### Run - London Marathon 2026
