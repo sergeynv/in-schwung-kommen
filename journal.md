@@ -1,5 +1,12 @@
 # Journal
 
+## 2026-05-03
+
+### Stability running shoes
+
+- Researched stability shoes, mostly based on Doctors of Running (YouTube + written)
+- Created a NotebookLM - [Stability running shoes 🏃‍♂️](https://notebooklm.google.com/notebook/b29c2424-682a-4a4c-98d7-40e89212bd74)
+
 ## 2026-05-01
 
 ### Run - Zurich 21.1K 2027
