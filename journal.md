@@ -1,11 +1,34 @@
 # Journal
 
+## 2026-05-12
+
+### Bike
+
+- Ordered Assos bib shorts; brought Maap bibs from Mellingen (almost new)
+- Changed chain on Caledonia (there was a waxed chain already), waxed the chain
+  that I took off
+- Fist ride on TT bike: 5x 30' easy (@ 210W)
+
+## 2026-05-08 - 2026-05-10
+
+### TCZ Training Camp at Sursee
+
+- Day 0, Fri: evening swim
+- Day 1, Sat: morning swim, 50K solo ride before lunch, 80K group ride in the
+  afternoon, yoga post dinner
+- Day 2, Sun: skipped morning swim, just went home
+
 ## 2026-05-03
 
 ### Stability running shoes
 
 - Researched stability shoes, mostly based on Doctors of Running (YouTube + written)
 - Created a NotebookLM - [Stability running shoes 🏃‍♂️](https://notebooklm.google.com/notebook/b29c2424-682a-4a4c-98d7-40e89212bd74)
+- Ordered *Saucony Endorphin Azura* and *Saucony Endorphin Trainer*
+  [from Galaxus](https://www.galaxus.ch/en/order/186677082), all in size 41;
+  should arrive between May 5 and May 7
+  - while *Tempus 3* - [ordered from Joom](https://www.joom.com/en/parcels/o-69d9d1effae0a538507237c5)
+  \- should arrive on May 4
 
 ## 2026-05-01
 
